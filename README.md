@@ -12,7 +12,6 @@ Linux (made in Ubuntu)
 - random 
 - matplotlib 
 - rospy 
-- math
 ## ⚙️INSTRUCTIONS
 - Implementing a path planning algorithm on an image of 600x600 pixels. I have used the RRT* connect algorithm for path planning in my code. Next the path is traversed using PID by turtlesim node in ROS noetic. 
 - Here there are three files: 
