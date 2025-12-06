@@ -47,5 +47,5 @@ generation of Image1.png for now.
 
 The output paths generated and turtle running on them can be seen in the output folder of the repo.
 
-Please leave if a follow if you found this useful.<br>
+Please leave a follow if you found this useful.<br>
 Thank you✨
